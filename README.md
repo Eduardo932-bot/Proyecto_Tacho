@@ -54,25 +54,25 @@ Pasos de ejecución
 6. Screenshots
 
  Splashscreen
-![Splashscreen](screenshots/01-splash.png)
+![Splashscreen](screenshots/01-splash.png.jpeg)
 
  Autenticación
-![Login con validación](screenshots/02-login.png)
+![Login con validación](screenshots/02-login.png.jpeg)
 ![Registro con selección de rol](screenshots/03-registro.png)
 
  Dashboards
-![Dashboard Admin](screenshots/04-dashboard-admin.png)
-![Dashboard Cliente](screenshots/05-dashboard-cliente.png)
-![Dashboard Operador](screenshots/06-dashboard-operador.png)
+![Dashboard Admin](screenshots/04-dashboard-admin.png.jpeg)
+![Dashboard Cliente](screenshots/05-dashboard-cliente.png.jpeg)
+![Dashboard Operador](screenshots/06-dashboard-operador.png.jpeg)
 
  Listas
-![Lista principal dinámica](screenshots/07-lista-principal.png)
-![Lista secundaria o detalle](screenshots/08-lista-detalle.png)
+![Lista principal dinámica](screenshots/07-lista-principal.png.jpeg)
+![Lista secundaria o detalle](screenshots/08-lista-detalle.png.jpeg)
 ![Estado vacío](screenshots/09-lista-vacia.png)
 
  Formularios
 ![Formulario del dominio](screenshots/10-formulario.png)
 
  Evidencia funcional
-![Foto del dispositivo físico/emulador](screenshots/11-foto-equipo.png)
-![Flujo de navegación](screenshots/12-navegacion.png)
+![Foto del dispositivo físico/emulador](screenshots/11-foto-equipo.png.jpeg)
+![Flujo de navegación](screenshots/12-navegacion.png.jpeg)
